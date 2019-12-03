@@ -526,3 +526,5 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\linksrc\Newtonsoft.Json.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll

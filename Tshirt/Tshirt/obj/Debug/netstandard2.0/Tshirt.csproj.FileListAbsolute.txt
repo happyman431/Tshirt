@@ -11,5 +11,5 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt\obj\Debug\netstandard2.0\Tshirt.pdb
 C:\Xamarin\Tshirt\Tshirt\Tshirt\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
 C:\Xamarin\Tshirt\Tshirt\Tshirt\bin\Debug\netstandard2.0\ref\Tshirt.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt\bin\Debug\netstandard2.0\Tshirt.pdb
-C:\Xamarin\Tshirt\Tshirt\Tshirt\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin\Tshirt\Tshirt\Tshirt\obj\Debug\netstandard2.0\Tshirt.csprojAssemblyReference.cache
+C:\Xamarin\Tshirt\Tshirt\Tshirt\obj\Debug\netstandard2.0\XamlC.stamp

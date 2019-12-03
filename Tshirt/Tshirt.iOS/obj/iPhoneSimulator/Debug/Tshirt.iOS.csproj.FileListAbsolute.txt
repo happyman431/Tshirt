@@ -61,3 +61,4 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 C:\Xamarin\Tshirt\Tshirt\Tshirt.iOS\obj\iPhoneSimulator\Debug\Tshirt.iOS.csproj.CopyComplete
 C:\Xamarin\Tshirt\Tshirt\Tshirt.iOS\obj\iPhoneSimulator\Debug\Tshirt.iOS.exe
 C:\Xamarin\Tshirt\Tshirt\Tshirt.iOS\obj\iPhoneSimulator\Debug\Tshirt.iOS.pdb
+C:\Xamarin\Tshirt\Tshirt\Tshirt.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll

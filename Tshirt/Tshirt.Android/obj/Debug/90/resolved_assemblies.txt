@@ -3,6 +3,7 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\FormsViewGro
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\Java.Interop.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\SQLite-net.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
@@ -63,6 +64,13 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Net.H
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Web.Services.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Collections.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
@@ -74,10 +82,3 @@ C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Threa
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Globalization.dll
 C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\Mono.Security.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\netstandard.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Data.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Transactions.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
-C:\Xamarin\Tshirt\Tshirt\Tshirt.Android\obj\Debug\90\android\assets\System.Web.Services.dll

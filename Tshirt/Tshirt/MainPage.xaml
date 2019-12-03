@@ -24,10 +24,6 @@
         <Editor Placeholder="Enter Color" Text="{Binding T-Shirt Color }"/>
 
 
-
-
-
-
         <Label Text="Shipping Address"/>
                     <Editor Placeholder="Enter Address" Text="{Binding ShippingAddress}"/>
                     <Label Text="Date of order"/>
